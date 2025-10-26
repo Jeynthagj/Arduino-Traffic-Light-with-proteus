@@ -21,6 +21,4 @@ This project simulates a traffic light system using an Arduino board and an LCD 
 (https://github.com/Jeynthagj/Arduino-Traffic-Light-with-proteus/blob/044ea122d493b31a2ce49548b8789e269c44c4c1/traffic.png)  
 
 ## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Jeynthagj/ArduinoTrafficLight.git
+   https://github.com/Jeynthagj/ArduinoTrafficLight.git
